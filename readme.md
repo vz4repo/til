@@ -2,11 +2,9 @@
 
 > 1일 1커밋을 목표로 (only in 5 business days..)
 
-## 1. [JAVA](./java)
+## 1. [JAVA](./java_week01-02)
 
-그없
-
-
+* 강의 아닌 스스로 공부한 내용 [(링크)](./java_week01-02/JAVA_note)
 
 ## 2. 특강
 
