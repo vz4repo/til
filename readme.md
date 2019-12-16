@@ -4,7 +4,7 @@
 
 ## 1. [JAVA](./java_week01-02)
 
-* 강의 아닌 스스로 공부한 내용 [(링크)](./java_week01-02/JAVA_note)
+* 강의 아닌 스스로 공부한 내용 [(링크)](./java_week01-02/JAVA_note.md)
 
 ## 2. 특강
 
