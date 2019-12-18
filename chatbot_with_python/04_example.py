@@ -30,4 +30,5 @@ dict_num = {"순남 시래기":"02-231-123123","양자강":"1231323", "20층":"3
 print(dict_num)
 print(dict_num["순남 시래기"])
 print(dict_num.get("순남 시래기"))
+# !! 오류발생 !! none
 print(dict_num.get("순남 시래기  "))

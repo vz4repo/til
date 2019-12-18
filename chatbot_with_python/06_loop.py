@@ -11,6 +11,5 @@ for i in range(4):
     print(i)
     print(menu[i])
 
-
 #range를 확인하고 싶다?
 print(range(4))
