@@ -1,0 +1,1 @@
+For 미국 USD currency exchange rate now : 1,165.10

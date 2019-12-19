@@ -1,0 +1,3 @@
+For 미국 USD currency exchange rate now : 1,165.30
+
+...csv, xml 등등 다양한 형식으로 변형 가능
