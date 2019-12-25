@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> {{text}} </title>
+</head>
+<body>
+    <h1>{{text}}</h1>
+    <!-- {{var}} 템플릿 공유 가능 -->
+    <ul>
+<!-- Jinja를 이용한 HTML문서에서 for 문 -->
+        {% for movie in movies %}
+        <li>{{movie}}</li>        
+        {% endfor %}
+        <!-- <li>Frozen 1</li>
+        <li>About Time</li>
+        <li>Home Alone I</li>
+        <li>Inception</li> -->
+    </ul>
+</body>
+</html>
