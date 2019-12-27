@@ -1,0 +1,38 @@
+
+*********************
+ 게시판  관련 SQL 작성
+********************
+users 테이블 생성 구문 
+     id          
+     password   
+     name        
+     role       
+
+board 테이블 생성 구문 
+     seq          전에 값 최대값 +1
+     title        
+     content      
+     regdate     default
+     cnt         default
+     id      
+     
+ 
+
+회원등록 o
+회원정보수정 o
+로그인 o
+
+게시판 글등록 o
+글수정 o
+게시판 글 삭제 o
+
+데이터검색(Query) o
+전체 등록글 수 o
+사용자별 등록글수  o
+월별개시글수 o
+사용자별 게시글 검색 o
+제목으로 게시글 검색 o
+
+
+
+
