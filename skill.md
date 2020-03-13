@@ -37,7 +37,7 @@ Localization
 HTTP 또는 RESTful API 클라이언트
 Redux, Redux-Saga, RxJS 등
 
-
+Java기본서/dto이해/jsp활용/spring 활용
 
 
 
